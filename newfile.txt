@@ -1,2 +1,0 @@
-This is a newfile I am adding to my remote repo
-This is a another line I am adding so that i can clear my doubts about branching
